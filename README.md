@@ -1,6 +1,6 @@
 # Learning HTML and Creating My First Website
 
-Introduction
+## Introduction
 When I first started learning HTML, I was excited to dive into the world of web development. As a food lover, I decided to create a website that would hold all my favorite recipes in one place. I began by learning the basics of HTML, such as creating paragraphs, headings, and lists.
 
 ## Creating My Recipe List
